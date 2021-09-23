@@ -6,8 +6,10 @@
 
 * [***Lexicographic Ordering***](https://github.com/AhmedDawoud3/Lexicographic-Ordering/)   
 An algorithm to iterate over all the permutations of an array.
+* [***Rope Simulation***](https://github.com/AhmedDawoud3/Rope-Simulation)    
+Rope Simulation With Verlet Integration.
 * [***Sine Cosine Wave***](https://github.com/AhmedDawoud3/Sine-Cosine-Wave)    
-Interactive animation showing the sine and cosine waves and their relation to the unit circle
+Interactive animation showing the sine and cosine waves and their relation to the unit circle.
 * [***Bell State***](https://github.com/AhmedDawoud3/Bell-state)    
  Create simple quantum entanglement with Qiskit.
 * [***Pi Collisions***](https://github.com/AhmedDawoud3/Pi-Collisions)   
