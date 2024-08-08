@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Dawoud</h1>
 <h3 align="center">An AI engineering student, a passionate Data Scientist from Egypt.</h3>
 
-- 🔭 I’m currently working at **almentor as a part time Site Coordinator**
-  
+- 🔭 I’m currently working at **almentor** as a part-time Site Coordinator
+- 🎓 I’m an undergraduate engineering student majoring in artificial intelligence engineering 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmeddawoud3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmeddawoud3" height="30" width="40" /></a>
